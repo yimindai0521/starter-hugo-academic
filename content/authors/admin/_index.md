@@ -8,7 +8,6 @@ interests:
 social: []
 organizations:
   - name: Sun-Yat Sen University
-  - name: Texas A&M University
 education:
   courses: []
 email: ""
