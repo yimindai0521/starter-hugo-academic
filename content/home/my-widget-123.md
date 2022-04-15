@@ -2,7 +2,7 @@
 widget: pages
 widget_id: Contact
 headless: true
-weight: 350
+weight: 100
 title: Contact
 active: true
 design:
