@@ -9,7 +9,10 @@ social: []
 organizations:
   - name: Sun-Yat Sen University
 education:
-  courses: []
+  courses:
+    - institution: Sun-Yat Sen University
+      year: ""
+      course: Bachelor of Science, Statistics
 email: ""
 superuser: true
 highlight_name: true
