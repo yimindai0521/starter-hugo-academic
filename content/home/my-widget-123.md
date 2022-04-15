@@ -1,5 +1,5 @@
 ---
-widget: Contact
+widget: page
 widget_id: Contact
 headless: true
 weight: 10
