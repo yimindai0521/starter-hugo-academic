@@ -1,5 +1,5 @@
 ---
-title: An example conference paper
+title: An example
 authors: []
 author_notes: []
 publication_short: ""
@@ -21,10 +21,10 @@ url_project: ""
 url_source: ""
 url_video: ""
 publication: ""
-featured: true
+featured: false
 date: 2022-04-15T13:24:37.964Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 doi: ""
