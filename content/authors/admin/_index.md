@@ -11,11 +11,11 @@ organizations:
 education:
   courses:
     - institution: Sun-Yat Sen University
-      year: 4
+      year: 2018
       course: Bachelor of Science, Statistics
     - course: PhD student, Statistics
       institution: Texas A&M University
-      year: 5
+      year: 2022
 email: ""
 superuser: true
 highlight_name: true
