@@ -8,7 +8,7 @@ links: []
 event: NA
 event_url: NA
 publishDate: 2022-04-15T13:23:00.766Z
-slides: example
+slides: ""
 url_pdf: ""
 summary: An example talk using Wowchemy's Markdown slides feature.
 featured: false
@@ -22,8 +22,7 @@ address:
   postcode: "94305"
   country: United States
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
