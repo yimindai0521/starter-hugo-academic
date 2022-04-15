@@ -1,10 +1,10 @@
 ---
 widget: contact
-widget_id: NA
-headless: true
+widget_id: RECENT-POSTS
 weight: 130
 title: ""
 subtitle: null
+active: true
 content:
   form:
     provider: netlify
@@ -39,6 +39,7 @@ content:
     latitude: "37.4275"
     longitude: "-122.1697"
   email: test@example.org
+headless: true
 design:
   columns: ""
 ---
